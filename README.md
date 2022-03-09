@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShahrukhAbrar
-- 👀 I’m interested in C++, Android, Anime
+- 👀 I’m interested in C++, C# , Python Android, Anime
 - 🌱 I’m currently learning Python web development framework
-- 💞️ I’m looking to collaborate on any Android or C++ related Project
+- 💞️ I’m looking to collaborate on any Android/C++/Python related Project
 - 📫 Reach me at sk03400104761@gmail.com
 
 <!---
